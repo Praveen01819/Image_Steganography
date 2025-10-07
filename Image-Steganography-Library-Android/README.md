@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/aagarwal1012/Image-Steganography-Library-Android/blob/master/images/cover.png?raw=true"/></div>  
+<div align="center"><img src="https://github.com/praveen1819/Image-Steganography-Library-Android/blob/master/images/cover.png?raw=true"/></div>  
 <div align= "center">
 	<img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform" />
 	
@@ -7,14 +7,6 @@
 <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-red.svg"
       alt="License: MIT" />
-  </a>
-	<a href="https://jitpack.io/#aagarwal1012/Image-Steganography-Library-Android"><img src="https://jitpack.io/v/aagarwal1012/Image-Steganography-Library-Android.svg" alt="version" /></a>
-	<a href="https://www.paypal.me/aagarwal1012">
-    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg"
-      alt="Donate" />
-  </a>
-	
-</div>
 
 # Image Steganography
 Steganography is the process of hiding a secret message within a larger one in such a way that someone  cannot know the presence or contents of the hidden message. Although related, Steganography is not to be confused with Encryption, which is the process of making a message unintelligible—Steganography attempts to hide the existence of communication.
@@ -57,7 +49,7 @@ allprojects {
 Now add the following dependency in your app's `build.gradle`
 ```groovy
 dependencies {
-      implementation 'com.github.aagarwal1012:Image-Steganography-Library-Android:v1.0'
+      implementation 'com.github.praveen1819:Image-Steganography-Library-Android:v1.0'
 }
 ```
 ## How to encode message into an image ?
@@ -272,3 +264,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
